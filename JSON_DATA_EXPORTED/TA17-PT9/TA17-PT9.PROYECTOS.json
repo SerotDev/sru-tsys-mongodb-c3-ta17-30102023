@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c0"
+  },
+  "nombre": "Proyecto 1",
+  "horas": 158
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c1"
+  },
+  "nombre": "Proyecto 2",
+  "horas": 176
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c2"
+  },
+  "nombre": "Proyecto 3",
+  "horas": 257
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c3"
+  },
+  "nombre": "Proyecto 4",
+  "horas": 258
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c4"
+  },
+  "nombre": "Proyecto 5",
+  "horas": 679
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c5"
+  },
+  "nombre": "Proyecto 6",
+  "horas": 86
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c6"
+  },
+  "nombre": "Proyecto 7",
+  "horas": 375
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c7"
+  },
+  "nombre": "Proyecto 8",
+  "horas": 284
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65c8"
+  },
+  "nombre": "Proyecto 9",
+  "horas": 965
+}]

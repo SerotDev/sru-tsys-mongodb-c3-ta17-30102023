@@ -1,0 +1,45 @@
+[{
+  "_id": "11111111",
+  "nom_apels": "Antonio Fernandez Moreno",
+  "facultad": 1
+},
+{
+  "_id": "22222222",
+  "nom_apels": "Jose Francisco Borbon",
+  "facultad": 1
+},
+{
+  "_id": "33333333",
+  "nom_apels": "Mike Matas Fernandez",
+  "facultad": 1
+},
+{
+  "_id": "44444444",
+  "nom_apels": "Alba Fonts Capdevila",
+  "facultad": 3
+},
+{
+  "_id": "55555555",
+  "nom_apels": "Carla Ribas Perea",
+  "facultad": 3
+},
+{
+  "_id": "66666666",
+  "nom_apels": "David Maza Olivar",
+  "facultad": 3
+},
+{
+  "_id": "77777777",
+  "nom_apels": "Adrian Marconi Mendoza",
+  "facultad": 5
+},
+{
+  "_id": "88888888",
+  "nom_apels": "Julia Cantos Ochoa",
+  "facultad": 5
+},
+{
+  "_id": "99999999",
+  "nom_apels": "Daniel Sierra Robles",
+  "facultad": 5
+}]

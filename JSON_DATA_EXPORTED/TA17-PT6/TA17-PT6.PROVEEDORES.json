@@ -1,0 +1,24 @@
+[{
+  "_id": 1,
+  "nombre": "MSI"
+},
+{
+  "_id": 2,
+  "nombre": "Siemens"
+},
+{
+  "_id": 3,
+  "nombre": "Nvidia"
+},
+{
+  "_id": 4,
+  "nombre": "Intel"
+},
+{
+  "_id": 5,
+  "nombre": "AMD"
+},
+{
+  "_id": 6,
+  "nombre": "Sapphire"
+}]

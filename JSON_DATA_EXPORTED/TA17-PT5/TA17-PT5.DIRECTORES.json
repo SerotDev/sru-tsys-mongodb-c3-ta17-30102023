@@ -1,0 +1,54 @@
+[{
+  "_id": "11111111",
+  "nom_apels": "Sergi Rodriguez Utge",
+  "despacho": 1,
+  "dni_jefe": "77777777"
+},
+{
+  "_id": "22222222",
+  "nom_apels": "Antonio Rodriguez Gonzalez",
+  "despacho": 2,
+  "dni_jefe": "55555555"
+},
+{
+  "_id": "33333333",
+  "nom_apels": "Maria Peinado Ramos",
+  "despacho": 4,
+  "dni_jefe": "77777777"
+},
+{
+  "_id": "44444444",
+  "nom_apels": "Julia Cortes Molina",
+  "despacho": 5,
+  "dni_jefe": "55555555"
+},
+{
+  "_id": "55555555",
+  "nom_apels": "Jose Perez Navarro",
+  "despacho": 3,
+  "dni_jefe": "66666666"
+},
+{
+  "_id": "66666666",
+  "nom_apels": "Pedro Valero Gimenez",
+  "despacho": 4,
+  "dni_jefe": "11111111"
+},
+{
+  "_id": "77777777",
+  "nom_apels": "Antonio Ochoa Gil",
+  "despacho": 4,
+  "dni_jefe": null
+},
+{
+  "_id": "88888888",
+  "nom_apels": "Nerea Prados Mata",
+  "despacho": 1,
+  "dni_jefe": "55555555"
+},
+{
+  "_id": "99999999",
+  "nom_apels": "Juan Peralta Mota",
+  "despacho": 1,
+  "dni_jefe": "77777777"
+}]

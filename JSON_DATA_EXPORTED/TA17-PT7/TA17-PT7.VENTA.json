@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "cajero": 1,
+    "maquina": 1,
+    "producto": 1
+  }
+},
+{
+  "_id": {
+    "cajero": 3,
+    "maquina": 1,
+    "producto": 2
+  }
+},
+{
+  "_id": {
+    "cajero": 2,
+    "maquina": 2,
+    "producto": 3
+  }
+},
+{
+  "_id": {
+    "cajero": 1,
+    "maquina": 2,
+    "producto": 4
+  }
+},
+{
+  "_id": {
+    "cajero": 5,
+    "maquina": 2,
+    "producto": 5
+  }
+},
+{
+  "_id": {
+    "cajero": 2,
+    "maquina": 2,
+    "producto": 6
+  }
+},
+{
+  "_id": {
+    "cajero": 1,
+    "maquina": 3,
+    "producto": 1
+  }
+},
+{
+  "_id": {
+    "cajero": 4,
+    "maquina": 3,
+    "producto": 2
+  }
+},
+{
+  "_id": {
+    "cajero": 4,
+    "maquina": 5,
+    "producto": 3
+  }
+},
+{
+  "_id": {
+    "cajero": 6,
+    "maquina": 5,
+    "producto": 4
+  }
+}]

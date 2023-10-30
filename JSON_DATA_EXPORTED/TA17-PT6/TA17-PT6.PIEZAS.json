@@ -1,0 +1,40 @@
+[{
+  "_id": 1,
+  "nombre": "MSI Radeon RX"
+},
+{
+  "_id": 2,
+  "nombre": "Tesla K80"
+},
+{
+  "_id": 3,
+  "nombre": "Ventus 2X"
+},
+{
+  "_id": 4,
+  "nombre": "GeForce RTX 4060"
+},
+{
+  "_id": 5,
+  "nombre": "GeForce RTX 3070"
+},
+{
+  "_id": 6,
+  "nombre": "Core i9"
+},
+{
+  "_id": 7,
+  "nombre": "Core i7"
+},
+{
+  "_id": 8,
+  "nombre": "Ryzen 7"
+},
+{
+  "_id": 9,
+  "nombre": "Ryzen 5"
+},
+{
+  "_id": 10,
+  "nombre": "Pulse AMD"
+}]

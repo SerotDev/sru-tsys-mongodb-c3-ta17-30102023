@@ -1,0 +1,30 @@
+[{
+  "_id": 1,
+  "nombre": "Platano de canarias",
+  "precio": 1.22
+},
+{
+  "_id": 2,
+  "nombre": "Silla Gamer",
+  "precio": 120.05
+},
+{
+  "_id": 3,
+  "nombre": "Televisor Lg",
+  "precio": 413.99
+},
+{
+  "_id": 4,
+  "nombre": "Lechuga",
+  "precio": 0.8
+},
+{
+  "_id": 5,
+  "nombre": "Libreta",
+  "precio": 2.3
+},
+{
+  "_id": 6,
+  "nombre": "CocaCola",
+  "precio": 1.1
+}]

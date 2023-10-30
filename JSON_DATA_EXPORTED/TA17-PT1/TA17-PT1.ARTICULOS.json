@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6536a4ab5a29557e5a976b5f"
+  },
+  "nombre": "Sony Xperia Z",
+  "precio": 120,
+  "fabricante": {
+    "$oid": "6536a1ee5a29557e5a976b5a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4ab5a29557e5a976b60"
+  },
+  "nombre": "Sony Lambda",
+  "precio": 141,
+  "fabricante": {
+    "$oid": "6536a1ee5a29557e5a976b5a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4ab5a29557e5a976b61"
+  },
+  "nombre": "Mi 3 plus",
+  "precio": 187,
+  "fabricante": {
+    "$oid": "6536a1ee5a29557e5a976b5b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4ab5a29557e5a976b62"
+  },
+  "nombre": "Mi 4 Compact",
+  "precio": 622,
+  "fabricante": {
+    "$oid": "6536a1ee5a29557e5a976b5b"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4ab5a29557e5a976b63"
+  },
+  "nombre": "LG Plus Note",
+  "precio": 430,
+  "fabricante": {
+    "$oid": "6536a1ee5a29557e5a976b5e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a4ab5a29557e5a976b64"
+  },
+  "nombre": "LG Mariloli",
+  "precio": 188,
+  "fabricante": {
+    "$oid": "6536a1ee5a29557e5a976b5e"
+  }
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6536dd4dcdb217ae322686d6"
+  },
+  "contenido": "Play Station 5",
+  "valor": 690,
+  "almacen": {
+    "$oid": "6536b0fa5a29557e5a976b6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536dd4dcdb217ae322686d7"
+  },
+  "contenido": "Portatil Asus XP 15",
+  "valor": 1500,
+  "almacen": {
+    "$oid": "6536b0fa5a29557e5a976b6e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536dd4dcdb217ae322686d8"
+  },
+  "contenido": "Manta termica",
+  "valor": 15,
+  "almacen": {
+    "$oid": "6536b0fa5a29557e5a976b6e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536dd4dcdb217ae322686d9"
+  },
+  "contenido": "Taladro",
+  "valor": 38,
+  "almacen": {
+    "$oid": "6536b0fa5a29557e5a976b6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536dd4dcdb217ae322686da"
+  },
+  "contenido": "Dentadura de Halloween",
+  "valor": 8,
+  "almacen": {
+    "$oid": "6536b0fa5a29557e5a976b6c"
+  }
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": "11111111X",
+  "nombre": "Sergi",
+  "apellidos": "Rodriguez Utge",
+  "departamento": {
+    "$oid": "6536aa065a29557e5a976b65"
+  }
+},
+{
+  "_id": "22222222X",
+  "nombre": "Marc",
+  "apellidos": "Gonzalez Verges",
+  "departamento": {
+    "$oid": "6536aa065a29557e5a976b69"
+  }
+},
+{
+  "_id": "33333333X",
+  "nombre": "Josep",
+  "apellidos": "Matas Prados",
+  "departamento": {
+    "$oid": "6536aa065a29557e5a976b65"
+  }
+},
+{
+  "_id": "44444444X",
+  "nombre": "Julia",
+  "apellidos": "Pla Agramunt",
+  "departamento": {
+    "$oid": "6536aa065a29557e5a976b69"
+  }
+},
+{
+  "_id": "55555555X",
+  "nombre": "David",
+  "apellidos": "Fernandez Gonzalez",
+  "departamento": {
+    "$oid": "6536aa065a29557e5a976b65"
+  }
+}]

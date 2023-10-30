@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65c9"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65b7"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c0"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65ca"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65b8"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65cb"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65b9"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c5"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65cc"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65ba"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c0"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65cd"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65bb"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c7"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65ce"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65bc"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c0"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65cf"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65bd"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c7"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65d0"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65be"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c3"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65d1"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65bf"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c0"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65d2"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65be"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c5"
+  }
+},
+{
+  "_id": {
+    "$oid": "65380700929d44aa3dbb65d3"
+  },
+  "cientifico": {
+    "$oid": "65380497929d44aa3dbb65b7"
+  },
+  "proyecto": {
+    "$oid": "65380497929d44aa3dbb65c5"
+  }
+}]

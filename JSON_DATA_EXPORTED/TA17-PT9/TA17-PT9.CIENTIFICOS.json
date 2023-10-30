@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65b7"
+  },
+  "nom_apels": "Antonio Fernandez Moreno"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65b8"
+  },
+  "nom_apels": "Jose Francisco Borbon"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65b9"
+  },
+  "nom_apels": "Mike Matas Fernandez"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65ba"
+  },
+  "nom_apels": "Alba Fonts Capdevila"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65bb"
+  },
+  "nom_apels": "Carla Ribas Perea"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65bc"
+  },
+  "nom_apels": "David Maza Olivar"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65bd"
+  },
+  "nom_apels": "Adrian Marconi Mendoza"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65be"
+  },
+  "nom_apels": "Julia Cantos Ochoa"
+},
+{
+  "_id": {
+    "$oid": "65380497929d44aa3dbb65bf"
+  },
+  "nom_apels": "Daniel Sierra Robles"
+}]

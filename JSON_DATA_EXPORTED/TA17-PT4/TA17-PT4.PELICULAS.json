@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "65370d18cdb217ae322686fa"
+  },
+  "nombre": "Citizen Kane",
+  "calificacion_edad": "PG"
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae322686fb"
+  },
+  "nombre": "Singin in the Rain",
+  "calificacion_edad": "G"
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae322686fc"
+  },
+  "nombre": "The Wizard of Oz",
+  "calificacion_edad": "G"
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae322686fd"
+  },
+  "nombre": "The Quiet Man",
+  "calificacion_edad": null
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae322686fe"
+  },
+  "nombre": "North by Northwest",
+  "calificacion_edad": null
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae322686ff"
+  },
+  "nombre": "The Last Tango in Paris",
+  "calificacion_edad": "NC-17"
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae32268700"
+  },
+  "nombre": "Some Like it Hot",
+  "calificacion_edad": "PG-13"
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae32268701"
+  },
+  "nombre": "A Night at the Opera",
+  "calificacion_edad": null
+},
+{
+  "_id": {
+    "$oid": "65370d18cdb217ae32268702"
+  },
+  "nombre": "Citizen King",
+  "calificacion_edad": "G"
+}]

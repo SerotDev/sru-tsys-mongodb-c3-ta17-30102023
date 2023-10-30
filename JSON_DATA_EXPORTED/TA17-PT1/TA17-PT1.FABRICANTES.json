@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6536a1ee5a29557e5a976b5a"
+  },
+  "nombre": "Sony"
+},
+{
+  "_id": {
+    "$oid": "6536a1ee5a29557e5a976b5b"
+  },
+  "nombre": "Xiaomi"
+},
+{
+  "_id": {
+    "$oid": "6536a1ee5a29557e5a976b5c"
+  },
+  "nombre": "Samsung"
+},
+{
+  "_id": {
+    "$oid": "6536a1ee5a29557e5a976b5d"
+  },
+  "nombre": "Toshiba"
+},
+{
+  "_id": {
+    "$oid": "6536a1ee5a29557e5a976b5e"
+  },
+  "nombre": "LG"
+}]

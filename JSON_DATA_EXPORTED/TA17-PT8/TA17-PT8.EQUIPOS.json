@@ -1,0 +1,35 @@
+[{
+  "_id": "ABCD",
+  "nombre": "Equipo 1",
+  "facultad": 1
+},
+{
+  "_id": "BCDE",
+  "nombre": "Equipo 2",
+  "facultad": 2
+},
+{
+  "_id": "CDEF",
+  "nombre": "Equipo 3",
+  "facultad": 3
+},
+{
+  "_id": "DEFG",
+  "nombre": "Equipo 4",
+  "facultad": 4
+},
+{
+  "_id": "EFGH",
+  "nombre": "Equipo 5",
+  "facultad": 5
+},
+{
+  "_id": "FGHI",
+  "nombre": "Equipo 6",
+  "facultad": 6
+},
+{
+  "_id": "GHIJ",
+  "nombre": "Equipo 7",
+  "facultad": 7
+}]

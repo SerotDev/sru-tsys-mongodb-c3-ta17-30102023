@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6536b0fa5a29557e5a976b6a"
+  },
+  "lugar": "Tarragona",
+  "capacidad": 2
+},
+{
+  "_id": {
+    "$oid": "6536b0fa5a29557e5a976b6b"
+  },
+  "lugar": "Castellon",
+  "capacidad": 3
+},
+{
+  "_id": {
+    "$oid": "6536b0fa5a29557e5a976b6c"
+  },
+  "lugar": "Zaragoza",
+  "capacidad": 1
+},
+{
+  "_id": {
+    "$oid": "6536b0fa5a29557e5a976b6d"
+  },
+  "lugar": "Madrid",
+  "capacidad": 4
+},
+{
+  "_id": {
+    "$oid": "6536b0fa5a29557e5a976b6e"
+  },
+  "lugar": "Barcelona",
+  "capacidad": 5
+}]

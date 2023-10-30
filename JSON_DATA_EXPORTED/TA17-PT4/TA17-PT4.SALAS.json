@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65370dcccdb217ae32268703"
+  },
+  "nombre": "Odeon",
+  "pelicula": {
+    "$oid": "65370d18cdb217ae322686fe"
+  }
+},
+{
+  "_id": {
+    "$oid": "65370dcccdb217ae32268704"
+  },
+  "nombre": "Imperial",
+  "pelicula": {
+    "$oid": "65370d18cdb217ae322686fa"
+  }
+},
+{
+  "_id": {
+    "$oid": "65370dcccdb217ae32268705"
+  },
+  "nombre": "Majestic",
+  "pelicula": null
+},
+{
+  "_id": {
+    "$oid": "65370dcccdb217ae32268706"
+  },
+  "nombre": "Royale",
+  "pelicula": {
+    "$oid": "65370d18cdb217ae322686ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65370dcccdb217ae32268707"
+  },
+  "nombre": "Paraiso",
+  "pelicula": {
+    "$oid": "65370d18cdb217ae322686fc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65370dcccdb217ae32268708"
+  },
+  "nombre": "Nickelodeon",
+  "pelicula": null
+}]
